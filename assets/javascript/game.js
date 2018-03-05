@@ -15,10 +15,10 @@ var resetAndStart = function () {
 
     
 	var images = [
-        'http://cdn.playbuzz.com/cdn/7a5d7935-6177-4be8-8b72-2a95ad2bcdfe/3b295cc9-7b5e-412f-8b1f-8547edd8e66b.jpg', 
-        'http://vignette3.wikia.nocookie.net/marvel-contestofchampions/images/1/1c/2-Star_Crystal.png/revision/latest?cb=20150825213642', 
-        'http://jonvilma.com/images/crystal-5.jpg', 
-        'https://static.turbosquid.com/Preview/2014/07/08__10_08_09/Crystals0010.jpgc22b2831-ae7a-4cb6-b4ac-612aa7f35ad7Original.jpg'];
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8QhvcjQYEmiHd0V2cPw7yBaYCg6XMxY_eIvT6dCOicagObysIA', 
+        'https://typeset-beta.imgix.net/uploads/image/2017/11/20/6721615d-edbc-4e92-83d9-d55d74a9b665-crystals-kim-kardashian.jpg?w=748&h=448&fit=crop&crop=faces&auto=format&q=70', 
+        'https://www.crystallight.co.nz/images/library/tuxpi.com.1474844554.jpg', 
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyrerZWU6hRuf8RdDbPr5dz8397kaA3F_fyHp_6yuUJNiMPkN'];
     
 
     random_result = Math.floor(Math.random() * 69 ) + 30;
