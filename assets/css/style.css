@@ -7,12 +7,12 @@
 }
 
 .crystal{
-	border:1px solid green;
+	border:8px solid rgb(216, 101, 35);
 	height:200px;
 	width: 200px;
-	border-radius: 4px;
-	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-	transition: box-shadow 1s, transform 2s;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px rgba(39, 46, 148, 0.5);
+	transition: box-shadow 5s, transform 8s;
 }
 
 
