@@ -24,7 +24,7 @@ var resetAndStart = function () {
     random_result = Math.floor(Math.random() * 69 ) + 30;
 
 
-    $("#result").html('Hit This Number!: ' + random_result);
+    $("#result").html('The Magic Number Is!: ' + random_result);
   
     for(var i = 0; i < 4; i++){
 
